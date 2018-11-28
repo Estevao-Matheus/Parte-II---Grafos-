@@ -1,0 +1,1023 @@
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.232155] [270.48] [161]
+2 [0.4] [0.23685] [428.14] [260]
+3 [0.6] [0.261422] [537.09] [360]
+4 [0.8] [0.269573] [316.85] [219]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.237014] [403.2] [240]
+2 [0.4] [0.240449] [298.08] [180]
+3 [0.6] [0.260767] [641.33] [420]
+4 [0.8] [0] [0] [0]
+5 [1] [0.26177] [243.38] [160]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:1] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:6] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0] [0] [0]
+2 [0.4] [0] [0] [0]
+3 [0.6] [0.498707] [599.46] [400]
+4 [0.8] [0] [0] [0]
+5 [1] [0.501293] [894.28] [600]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:1] -> [2] [4] [7] [8] [10] 
+- 4 [freq:6] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.233505] [470.4] [280]
+2 [0.4] [0.238164] [327.78] [199]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0.26771] [468.91] [320]
+5 [1] [0.260622] [301.97] [201]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.317747] [502.32] [299]
+2 [0.4] [0.322048] [532.1] [321]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0.360205] [563.15] [380]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:6] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:6] -> [2] [3] [7] [10] 
+- 5 [freq:14] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:6] -> [5] [7] [10] 
+- 7 [freq:1] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.319638] [703.92] [419]
+2 [0.4] [0.322825] [567.24] [341]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0] [0] [0]
+5 [1] [0.357537] [360.46] [240]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.473445] [705.6] [420]
+2 [0.4] [0] [0] [0]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0] [0] [0]
+5 [1] [0.526555] [876.12] [580]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:1] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:14] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.238179] [67.2] [40]
+2 [0.4] [0.2406] [563.79] [339]
+3 [0.6] [0.260646] [644.78] [420]
+4 [0.8] [0] [0] [0]
+5 [1] [0.260576] [308.28] [201]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:6] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:1] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.321008] [638.4] [380]
+2 [0.4] [0.324685] [564.73] [340]
+3 [0.6] [0.354307] [426.19] [280]
+4 [0.8] [0] [0] [0]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0] [0] [0]
+2 [0.4] [0.315098] [619.94] [379]
+3 [0.6] [0.341057] [334.15] [221]
+4 [0.8] [0] [0] [0]
+5 [1] [0.343845] [599.59] [400]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0] [0] [0]
+2 [0.4] [0.31243] [428.59] [259]
+3 [0.6] [0.340173] [455.95] [300]
+4 [0.8] [0.347397] [655.75] [441]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0] [0] [0]
+2 [0.4] [0.310623] [362.18] [219]
+3 [0.6] [0.345593] [535.12] [360]
+4 [0.8] [0] [0] [0]
+5 [1] [0.343785] [628.52] [421]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:1] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:6] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:1] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:14] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.236296] [304.08] [181]
+2 [0.4] [0.238978] [332.23] [200]
+3 [0.6] [0.261827] [667.12] [440]
+4 [0.8] [0.262899] [270.29] [179]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:6] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:14] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.23317] [336] [200]
+2 [0.4] [0.238763] [457.74] [279]
+3 [0.6] [0.265495] [296.77] [201]
+4 [0.8] [0.262572] [477.4] [320]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:1] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:14] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:1] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:14] -> [3] [7] 
+- 9 [freq:14] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.235747] [502.32] [299]
+2 [0.4] [0.238291] [265.93] [160]
+3 [0.6] [0.259161] [489.03] [320]
+4 [0.8] [0] [0] [0]
+5 [1] [0.266801] [327.83] [221]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:6] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:14] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.234044] [436.8] [260]
+2 [0.4] [0.236421] [299.36] [180]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0.261749] [359.02] [239]
+5 [1] [0.267786] [471.55] [321]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:6] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:1] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0] [0] [0]
+2 [0.4] [0.23227] [166.38] [101]
+3 [0.6] [0.251947] [455.51] [300]
+4 [0.8] [0.258196] [383.74] [259]
+5 [1] [0.257588] [504.94] [340]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:6] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:1] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:14] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.321082] [603.12] [359]
+2 [0.4] [0.325318] [530.6] [320]
+3 [0.6] [0.3536] [489.09] [321]
+4 [0.8] [0] [0] [0]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.235912] [403.2] [240]
+2 [0.4] [0.242096] [325.78] [199]
+3 [0.6] [0.259829] [427.1] [280]
+4 [0.8] [0.262162] [424.25] [281]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.319342] [102.48] [61]
+2 [0.4] [0.324079] [629.07] [380]
+3 [0.6] [0.356579] [841.05] [559]
+4 [0.8] [0] [0] [0]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:6] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:14] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.306708] [438.48] [261]
+2 [0.4] [0] [0] [0]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0.34802] [592.23] [400]
+5 [1] [0.345272] [505.91] [339]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:1] -> [2] [4] [7] [8] [10] 
+- 4 [freq:6] -> [2] [3] [7] [10] 
+- 5 [freq:1] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:6] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:6] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.231683] [403.2] [240]
+2 [0.4] [0.234935] [465.57] [281]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0.26765] [202.14] [139]
+5 [1] [0.265733] [498.01] [340]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.317642] [537.6] [320]
+2 [0.4] [0.324688] [394.45] [240]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0] [0] [0]
+5 [1] [0.357671] [656.14] [440]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:1] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:1] -> [2] [4] [7] [8] [10] 
+- 4 [freq:14] -> [2] [3] [7] [10] 
+- 5 [freq:14] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:14] -> [3] [7] 
+- 9 [freq:6] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.319166] [606.48] [361]
+2 [0.4] [0.322853] [531.46] [320]
+3 [0.6] [0.357982] [477.81] [319]
+4 [0.8] [0] [0] [0]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:1] -> [2] [4] [7] [8] [10] 
+- 4 [freq:6] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.229815] [302.4] [180]
+2 [0.4] [0] [0] [0]
+3 [0.6] [0.254244] [394.83] [260]
+4 [0.8] [0.257565] [329.78] [220]
+5 [1] [0.258376] [508.06] [340]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:6] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:1] -> [2] [4] [7] [8] [10] 
+- 4 [freq:14] -> [2] [3] [7] [10] 
+- 5 [freq:1] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:14] -> [3] [7] 
+- 9 [freq:14] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.467867] [739.2] [440]
+2 [0.4] [0] [0] [0]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0.532133] [827.18] [560]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:1] -> [2] [4] [7] [8] [10] 
+- 4 [freq:14] -> [2] [3] [7] [10] 
+- 5 [freq:1] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:14] -> [3] [7] 
+- 9 [freq:6] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.30669] [535.92] [319]
+2 [0.4] [0] [0] [0]
+3 [0.6] [0.343789] [571.19] [381]
+4 [0.8] [0.349521] [442.24] [300]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0] [0] [0]
+2 [0.4] [0.308372] [494.33] [300]
+3 [0.6] [0.343836] [472.9] [320]
+4 [0.8] [0] [0] [0]
+5 [1] [0.347792] [554.65] [380]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:6] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:6] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0] [0] [0]
+2 [0.4] [0.234993] [227.51] [140]
+3 [0.6] [0.252178] [545.16] [360]
+4 [0.8] [0.257376] [384.29] [259]
+5 [1] [0.255453] [360.03] [241]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:6] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:14] -> [2] [4] [7] [8] [10] 
+- 4 [freq:1] -> [2] [3] [7] [10] 
+- 5 [freq:14] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:1] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:1] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.319723] [337.68] [201]
+2 [0.4] [0.325079] [527.09] [319]
+3 [0.6] [0] [0] [0]
+4 [0.8] [0.355199] [725.86] [480]
+5 [1] [0] [0] [0]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:1] -> [2] [4] [7] [8] [10] 
+- 4 [freq:14] -> [2] [3] [7] [10] 
+- 5 [freq:1] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:14] -> [5] [7] [10] 
+- 7 [freq:6] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:14] -> [3] [7] 
+- 9 [freq:6] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
+Lendo o arquivo: instance_5.txt
+
+Grafo possui 10 nos e 25 arestas! 
+
+Executando algoritmo Guloso Randomizado Reativo...
+
+Quantidade de alfas: 5
+Quantidade de iteracoes: 1000
+Quantidade de iteracoes para trocar de alfa: 20
+Quantidade de iteracoes para recalcular as probabilidades: 100
+
+Informacoes dos alfas: 
+[id] [Valor do Alfa] [Probabilidade Escolha] [Somatorio de Custos das Execucoes] [Quantidade de Execucoes]
+1 [0.2] [0.306905] [604.8] [360]
+2 [0.4] [0] [0] [0]
+3 [0.6] [0.339997] [424.1] [280]
+4 [0.8] [0] [0] [0]
+5 [1] [0.353098] [525.68] [360]
+
+Grafo com Menor Interferencia encontrado: 0.93
+Grafo:
+- 1 [freq:14] -> [2] [5] [9] [10] 
+- 2 [freq:10] -> [1] [3] [4] [5] [7] [9] [10] 
+- 3 [freq:1] -> [2] [4] [7] [8] [10] 
+- 4 [freq:6] -> [2] [3] [7] [10] 
+- 5 [freq:1] -> [1] [2] [6] [7] [9] [10] 
+- 6 [freq:6] -> [5] [7] [10] 
+- 7 [freq:14] -> [2] [3] [4] [5] [6] [8] [10] 
+- 8 [freq:11] -> [3] [7] 
+- 9 [freq:6] -> [1] [2] [5] [10] 
+- 10 [freq:11] -> [1] [2] [3] [4] [5] [6] [7] [9] 
+
+Tempo total de execucao: 0 segundos
