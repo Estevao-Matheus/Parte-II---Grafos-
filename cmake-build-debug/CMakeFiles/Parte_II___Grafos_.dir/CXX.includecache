@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/Gulosos.cpp
+Gulosos.h
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/Gulosos.h
+
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/Gulosos.h
+iostream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+string
+-
+Vertice.h
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/Vertice.h
+
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/Vertice.cpp
+Vertice.h
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/Vertice.h
+
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/Vertice.h
+iostream
+-
+vector
+-
+
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/main.cpp
+iostream
+-
+cstring
+-
+ctime
+-
+Gulosos.h
+C:/Users/1513 X-MXTI/Desktop/grafos parte 2/Parte-II---Grafos-/Grafos/Gulosos.h
+

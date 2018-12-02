@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 #include <ctime>
-#include "Metodo.h"
+#include "Gulosos.h"
 
 using namespace std;
 
@@ -9,7 +9,7 @@ static void usage()
 {
     cout << "\nUso:\n" <<
         "    Solve [metodo] [opcoes] <arquivo de entrada>\n\n" <<
-        "Metodo:\n" <<
+        "Gulosos:\n" <<
         "    -g          Guloso\n" <<
         "    -gr         Guloso Randomizado\n" <<
         "       Opcoes:\n" <<
@@ -124,7 +124,7 @@ int main(int argC, const char * argV[]) {
     }
 
     cout << "Lendo o arquivo: " << argV[argInd] << "\n\n";
-    Metodo* m = new Metodo(argV[argInd]);
+    Gulosos* m = new Gulosos(argV[argInd]);
     if(m->erro) {
         cout << "Erro na leitura do arquivo!" << endl;
         return 3;
@@ -137,7 +137,7 @@ int main(int argC, const char * argV[]) {
 
             m->Guloso();
 
-            cout << "Interferencia Total: " << m->sumInterferencia << endl;
+            cout << "Interferencia Total: " << m->somatorioInterferencia << endl;
             m->imprimeGrafo(m->grafo);
             break;
         case 1:
@@ -155,7 +155,7 @@ int main(int argC, const char * argV[]) {
             
             m->GulosoRandomizado(alfa, it);
 
-            cout << "\nGrafo com Menor Interferencia encontrado: " << m->sumMenorInterferencia << endl;
+            cout << "\nGrafo com Menor Interferencia encontrado: " << m->somatorioMenorInterferencia << endl;
             m->imprimeGrafo(m->getMelhorGrafo());
             break;
         case 2:
@@ -174,7 +174,7 @@ int main(int argC, const char * argV[]) {
             cout << "Quantidade de iteracoes para recalcular as probabilidades: " << gr << "\n\n";
             m->GulosoRandomizadoReativo(ar, br, gr, it);
 
-            cout << "\nGrafo com Menor Interferencia encontrado: " << m->sumMenorInterferencia << endl;
+            cout << "\nGrafo com Menor Interferencia encontrado: " << m->somatorioMenorInterferencia << endl;
             m->imprimeGrafo(m->getMelhorGrafo());
             break;
     }

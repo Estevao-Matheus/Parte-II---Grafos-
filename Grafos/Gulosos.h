@@ -6,19 +6,20 @@
 #include <vector>
 #include <algorithm>
 #include <string>
-#include "No.h"
+#include "Vertice.h"
 
 using namespace std;
 
-class Metodo{
+class Gulosos{
     public:
         int n; //Número de nós
         int k; //Número de arestas
-        bool erro; //Booleano para definir se houve erro ao ler o arquivo
-        vector<No*> grafo; //Grafo
-        float sumInterferencia; //Interferencia do Grafo
+        bool erro; //Booleano usado pra verficar a abertura correta do arquivo
+        vector<Vertice*> grafo; //Grafo utilizado
+        float somatorioInterferencia; //Interferencia do Grafo
+        float somatorioMenorInterferencia = -1; //Interferencia do Melhor Grafo
         vector<int> grafoFrequencias; //Melhor sequencia de frequencias
-        float sumMenorInterferencia = -1; //Interferencia do Melhor Grafo
+
 
         float interferencia[196] = {1.00, 0.77, 0.54, 0.31, 0.09, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00,
                                    0.77, 1.00, 0.77, 0.54, 0.31, 0.09, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00,
@@ -34,17 +35,17 @@ class Metodo{
                                    0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.09, 0.31, 0.54, 0.77, 1.00, 0.77, 0.22,
                                    0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.09, 0.31, 0.54, 0.77, 1.00, 0.45,
                                    0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.22, 0.45, 1.00};
-        Metodo(string sarq);
-        void imprimeGrafo(vector<No*> graph);
-        static bool algoritmoOrdenacao(No* a, No* b);
+        Gulosos(string stringArq);
+        void imprimeGrafo(vector<Vertice*> grafo);
         void resetaGrafo();
-        float getInterferencia(int freq1, int freq2);
-        vector<No*> getMelhorGrafo();
+        vector<Vertice*> getMelhorGrafo();
+        static bool algoritmoOrdenacao(Vertice* a, Vertice* b);
+        float getInterferencia(int frequencia1, int frequencia2);
         void Guloso();
         void GulosoRandomizado(double alfaR, int itTotal);
         void GulosoRandomizadoReativo(int alfaRR, int betaRR, int gammaRR, int itTotal);
     private:
-        float selecionaFrequencia(No* no);
+        float selecionaFrequencia(Vertice* vertice);
         float GulosoRandomizado(double alfaR);
 };
 
