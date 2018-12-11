@@ -36,7 +36,7 @@ Gulosos::Gulosos(string stringArq) {
 void Gulosos::imprimeGrafo(vector<Vertice*> g){
     cout << "Grafo:\n";
     for(int i = 0; i < g.size(); i++){
-        cout << "- " << g.at(i)->id << " [freqencia:" << g.at(i)->frequencia << "] -> ";
+        cout << "- " << g.at(i)->id << " [frequencia:" << g.at(i)->frequencia << "] -> ";
         for(int j = 0; j < g.at(i)->adj.size(); j++){
             cout << "[" << g.at(i)->adj.at(j)->id << "] ";
         }
